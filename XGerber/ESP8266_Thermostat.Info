@@ -1,0 +1,33 @@
+CAM-Ausgabe für AktuellesProjekt ESP8266_Thermostat.T3001
+Ausgabe am 18. Sep 2017, 14:33h
+AktuellesProjekt erzeugt mit TARGET 19.3.0.11 discover
+Ausgabe erzeugt mit TARGET 3001! V19.3.0.11
+AktuellesProjekt von TARGET NC-Version: Kommerzielle Nutzung ist strafbar!
+LIEFERANSCHRIFT:
+  
+  
+  
+  D- 
+  Tel: 
+  FAX: 
+  eMail: 
+Größe der Platine: 50 mm x 50 mm
+
+Folgend die Beschreibung der erzeugten Dateien:
+
+ESP8266_Thermostat.Top = 16 = Kupfer oben L1   ( *.Top )
+ESP8266_Thermostat.Bot = 2 = Kupfer unten L2   ( *.Bot )
+ESP8266_Thermostat.Tool = Bohrerliste
+ESP8266_Thermostat.Drill = Durchkontaktierte Bohrungen
+ESP8266_Thermostat.Outline = 23 = Platinen-Umriss   ( *.Outline )
+ESP8266_Thermostat.StopTop = 18 = Lötstoppmaske oben   ( *.StopTop )
+ESP8266_Thermostat.StopBot = 4 = Lötstoppmaske unten   ( *.StopBot )
+ESP8266_Thermostat.PosiTop = 21 = Bestückungsdruck oben   ( *.PosiTop )
+ESP8266_Thermostat.PosiBot = 7 = Bestückungsdruck unten   ( *.PosiBot )
+ESP8266_Thermostat.Apr = TARGET 3001! Blendenliste
+ESP8266_Thermostat.Whl = Eagle kompatible Blendenliste
+
+
+Achtung: Dünnste Bahn ist kleiner 0,150mm: (0,100 bei 6,2925 | 24,0125) auf Ebene 21
+
+Achtung: Dünnste Schrift ist kleiner 0,150mm: (0,130 bei 7,1425 | 20,8725) auf Ebene 21

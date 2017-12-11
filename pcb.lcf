@@ -1,0 +1,101 @@
+TARGET 3001! Layer Configuration File
+Fläche unten	4	2	0
+Lösch unten	15	2	0
+Kupfer unten	4	2	0
+Gold unten	6	2	0
+Lötstop unten	2	2	0
+Lötpaste unten	8	2	0
+Kleber unten	5	2	0
+Bestückung unten	3	2	0
+Fläche innen	2	10	0
+Lösch innen	15	10	0
+Sonstige	2	10	0
+Fläche innen	6	13	0
+Lösch innen	15	13	0
+Sonstige	6	13	0
+Fläche oben	1	16	0
+Lösch oben	15	16	0
+Kupfer oben	1	16	0
+Gold oben	2	16	0
+Lötstop oben	2	16	0
+Lötpaste oben	8	16	0
+Kleber oben	5	16	0
+Bestückung oben	0	16	0
+Bemaßung	7	255	0
+Platinen-Umriss	12	255	0
+Bohrlöcher	6	255	0
+Fräsen	6	255	0
+Lötpunktnummern	0	255	0
+Luftlinie	2	255	0
+Fehler	5	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
+Sonstige	3	255	0
